@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+<iframe src="https://giphy.com/embed/lTRuG1F4VZ3LHMpXY2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/leroypatterson-working-busy-workaholic-lTRuG1F4VZ3LHMpXY2">via GIPHY</a></p>
+
 **katesereda1808/katesereda1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="100"/>
+</div>
