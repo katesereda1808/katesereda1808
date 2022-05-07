@@ -34,4 +34,10 @@ https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif
 ---
 
 ### :woman_technologist: About Me :
+I am a Frontend developer from Moscow
+- :telescope: I’m working on applications interfaces
+
+- :telescope: Every day explore new things and hone my skills
+
+- :desert_island: I like to travel, learn languages and do pet projects in my free time
 
