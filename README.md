@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 <iframe src="https://giphy.com/embed/lTRuG1F4VZ3LHMpXY2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/leroypatterson-working-busy-workaholic-lTRuG1F4VZ3LHMpXY2">via GIPHY</a></p>
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
+  ### Hi there 👋
   <img src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ekaterina-sereda-12b1ba223/">
