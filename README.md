@@ -19,15 +19,19 @@ https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif
 -->
 <div id="header" align="center">
   <h1>Welcome to my page!</h1>
-  <img src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="200"/>
+<!--   <img src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="200"/> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/ekaterina-sereda-12b1ba223/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <div align="center">
+<!--   <div align="center">
     <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100%"/>
-  </div>
+  </div> -->
   
 </div>
+
+---
+
+### :woman_technologist: About Me :
 
